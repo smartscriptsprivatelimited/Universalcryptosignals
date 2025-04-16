@@ -2,7 +2,7 @@
 
 **Client:** Universal Crypto Signals  
 **Market:** Cryptocurrency Trading Signals  
-**Website:** [www.universalcryptosignals.com](https://www.universalcryptosignals.com)
+**Website:** [www.universalcryptosignals.com](https://www.universalcryptosignals.com)  
 **Location:** Global (Online Service)  
 **Technology Stack:** PHP, MySQL, WordPress, WooCommerce, Elementor, Astra Theme, Payment Gateway Integration
 
